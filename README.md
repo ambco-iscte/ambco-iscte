@@ -18,11 +18,6 @@
   * Check out [Witter](https://github.com/ambco-iscte/witter), my dissertation project! :)
  
 * 🎓 Graduate of the Bachelor's in Computer Science and Engineering at Iscte in Lisbon, Portugal.
-
-* 👨‍🏫 Invited Teaching Assistant at [Iscte - Instituto Universitário de Lisboa](https://www.iscte-iul.pt/).
-
-  * Theory of Computation
-  * Algorithms and Data Structures
  
 <br>
 
