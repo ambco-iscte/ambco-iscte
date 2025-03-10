@@ -9,7 +9,7 @@
 * 🧠 Interested in Programming, Mathematics (especially when they're both together!), and Teaching. (And other nerdy things.)
 * 🎓 Pursuing a PhD in Information Science and Technology at Iscte in Lisbon, Portugal.
 
-  * Research work on educational tools and methodologies for programming education.
+  * Seeing if I can get students to learn by asking them questions about everything. :)
 
 
 * 🎓 Graduate of the Master's in Computer Science and Engineering at Iscte Lisbon, Portugal.
@@ -21,18 +21,16 @@
  
 <br>
 
-<details>
-  <summary><strong>💡 Skills</strong></summary>
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,latex,html,css,unity,visualstudio,eclipse)](https://skillicons.dev)
-</details>
+**💡 What can I do?**
+* I can code in these languages: Kotlin; Java; Python; C#; HTML.
+* I can use these IDEs: IntelliJ; PyCharm; Eclipse; Visual Studio.
+* I like to think I can make neat documents with LaTeX in Overleaf.
+* I can use UnityEngine to make questionable games.
 
 <br>
 
-<details>
-  <summary><strong>📈 Stats</strong></summary>
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambco-iscte&theme=algolia) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambco-iscte&theme=algolia)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ambco-iscte&theme=algolia&utcOffset=8) 
-</details>
+**📈 My GitHub Stats**
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambco-iscte&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambco-iscte&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ambco-iscte&theme=algolia&utcOffset=0) 
