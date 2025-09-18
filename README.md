@@ -12,7 +12,7 @@
   * Seeing if I can get students to learn by asking them questions about everything. :)
 
 
-* 🎓 Graduate of the Master's in Computer Science and Engineering at Iscte Lisbon, Portugal.
+* 🎓 Graduate of the Master's in Computer Science and Engineering at Iscte in Lisbon, Portugal.
 
   * Research work on white-box code assessment for programming education.
   * Check out [Witter](https://github.com/ambco-iscte/witter), my dissertation project! :)
